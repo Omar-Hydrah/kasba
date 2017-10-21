@@ -1,6 +1,6 @@
 {
   "name": "kasba",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Full web application security package",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,6 @@
   "author": "Omar Hydrah <omarhydrah@tutanota.de>",
   "license": "MIT",
   "dependencies": {
-  	"crypto-js": "^3.1.9-1"
+    "crypto-js": "^3.1.9-1"
   }
 }
