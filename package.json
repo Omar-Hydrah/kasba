@@ -1,0 +1,19 @@
+{
+  "name": "kasba",
+  "version": "1.0.1",
+  "description": "Full web application security package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "security",
+    "web",
+    "security"
+  ],
+  "author": "Omar Hydrah <omarhydrah@tutanota.de>",
+  "license": "MIT",
+  "dependencies": {
+  	"crypto-js": "^3.1.9-1"
+  }
+}
