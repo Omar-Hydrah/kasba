@@ -29,7 +29,7 @@ function createRandomHash(length=10){
 
 
 module.exports = {
-	randomString: randomString,
-	hashString  : hashString,
-	createHash  : createHash
+	randomString      : randomString,
+	hashString        : hashString,
+	createRandomHash  : createRandomHash
 }
