@@ -1,6 +1,6 @@
 {
   "name": "kasba",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Full web application security package",
   "main": "index.js",
   "scripts": {
