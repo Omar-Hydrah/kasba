@@ -22,8 +22,8 @@ function hashString(string){
 	return hash.toString(crypto.enc.Hex);
 }
 
-// Creates a hash using a random string, and sha1
-function createHash(length=10){
+// Creates a hash using a randomly generated string, and sha1
+function createRandomHash(length=10){
 	return hashString(randomString(length));
 }
 
